@@ -16,7 +16,7 @@ function App() {
                 <a href="#f">Why Propeller?</a>
               </li>
               <li className="App-Navlink">
-                <a href="#f">Solution</a>
+                <a href="#ff">Solution</a>
               </li>
               <li className="App-Navlink">
                 <a href="#ff">Resources</a>

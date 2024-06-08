@@ -49,7 +49,9 @@ function App() {
               Empower your team to map, measure, and manage their reality with
               survey-grade accuracy.
             </p>
-            <button className="">Visit Now</button>
+            <a href="https://www.propelleraero.com/dirtmate/" alt="propeller">
+              Visit
+            </a>
           </article>
         </div>
       </section>

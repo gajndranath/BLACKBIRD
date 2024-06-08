@@ -19,7 +19,7 @@ function App() {
                 <a href="#f">Solution</a>
               </li>
               <li className="App-Navlink">
-                <a href="#f">Resources</a>
+                <a href="#ff">Resources</a>
               </li>
             </ul>
           </nav>

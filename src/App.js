@@ -1,4 +1,4 @@
-import logo from "./reactlogo.svg";
+import logo from "./logo.svg";
 import "./App.css";
 import LanguageIcon from "@mui/icons-material/Language";
 
@@ -49,9 +49,7 @@ function App() {
               Empower your team to map, measure, and manage their reality with
               survey-grade accuracy.
             </p>
-            <a href="#" alt="propeller">
-              Visit
-            </a>
+            <button className="">Visit Now</button>
           </article>
         </div>
       </section>
